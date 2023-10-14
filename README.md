@@ -16,6 +16,6 @@
 
 **Screenshots**
 
-![01](https://github.com/lokesh632/fitpeo-dashboard/assets/97972189/ab04bd91-e6ad-44b7-a53d-c871db7d9469)
+![01](https://github.com/anishVermaIsHere/fitpeo-dashboard/assets/97972189/ab04bd91-e6ad-44b7-a53d-c871db7d9469)
 
-![02](https://github.com/lokesh632/fitpeo-dashboard/assets/97972189/14dffdc1-8fd1-4b1e-87e4-53e66354d6c5)
+![02](https://github.com/anishVermaIsHere/fitpeo-dashboard/assets/97972189/14dffdc1-8fd1-4b1e-87e4-53e66354d6c5)
